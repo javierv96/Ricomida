@@ -1,0 +1,44 @@
+nav{
+    background-color: #373A3C;
+    color: #fff;
+ }
+
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.logo{
+    font-family: 'Lobster';
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imgPrincipal{
+
+
+}
+
+.imgCarrusel{
+    height: 10.624rem;
+    width: 14.563rem;
+}
+
+.card{
+    width: 18rem;
+    height: 23.75rem;
+}
+.suscribete{
+    background-color: #DC3545;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.suscribete h1, h3{
+    font-family: 'Cabin';
+}
+
+footer{
+    background-color: #373A3C;
+}
